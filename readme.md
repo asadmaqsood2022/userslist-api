@@ -4,8 +4,8 @@
  * Plugin Name: Users List
  * Version: 1.0
  * Description: Get Users list from third-party API
- * Author: Faran Shah
- * Author URI: https://faran.work/
+ * Author: Asad
+ * Author URI: https://asadmaqsood.com/
 
 ## Requirements
 
